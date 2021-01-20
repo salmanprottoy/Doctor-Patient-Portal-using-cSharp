@@ -1,0 +1,10 @@
+E:\C# Project\Doctor Patient Portalsln\Doctor Patient Portal\bin\Debug\Doctor Patient Portal.exe.config
+E:\C# Project\Doctor Patient Portalsln\Doctor Patient Portal\bin\Debug\Doctor Patient Portal.exe
+E:\C# Project\Doctor Patient Portalsln\Doctor Patient Portal\bin\Debug\Doctor Patient Portal.pdb
+E:\C# Project\Doctor Patient Portalsln\Doctor Patient Portal\obj\Debug\Doctor Patient Portal.csprojResolveAssemblyReference.cache
+E:\C# Project\Doctor Patient Portalsln\Doctor Patient Portal\obj\Debug\Doctor_Patient_Portal.Properties.Resources.resources
+E:\C# Project\Doctor Patient Portalsln\Doctor Patient Portal\obj\Debug\Doctor Patient Portal.csproj.GenerateResource.Cache
+E:\C# Project\Doctor Patient Portalsln\Doctor Patient Portal\obj\Debug\Doctor Patient Portal.exe
+E:\C# Project\Doctor Patient Portalsln\Doctor Patient Portal\obj\Debug\Doctor Patient Portal.pdb
+E:\C# Project\Doctor Patient Portalsln\Doctor Patient Portal\obj\Debug\Doctor_Patient_Portal.Login.resources
+E:\C# Project\Doctor Patient Portalsln\Doctor Patient Portal\obj\Debug\Doctor_Patient_Portal.Signup.resources
